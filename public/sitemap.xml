@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yayayouchuang.com/categories/</loc>
+    <loc>/adboutme/</loc>
+    <lastmod>2022-08-14T16:44:22+08:00</lastmod>
   </url><url>
-    <loc>http://yayayouchuang.com/tags/</loc>
+    <loc>/posts/hello-yaya/</loc>
+    <lastmod>2022-08-14T16:35:42+08:00</lastmod>
   </url><url>
-    <loc>http://yayayouchuang.com/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2022-08-14T16:35:42+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-08-14T16:35:42+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
