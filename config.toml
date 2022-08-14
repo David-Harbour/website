@@ -1,0 +1,4 @@
+baseURL = 'http://yayayouchuang.com'
+languageCode = 'en-us'
+title = 'YY'
+theme = 'hyde'
