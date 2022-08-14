@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo uname -a
+          uname -a
           
       - name: Deploy
         uses: cross-the-world/scp-pipeline@master
@@ -45,5 +45,5 @@ jobs:
           user: ${{ secrets.WEBSITE_USER }}
           pass: ${{ secrets.WEBSITE_PASS }}
           connect_timeout: 10s
-          local: './*'
-          remote: /data/web/tmp
+          local: './public/*'
+          remote: /var/www/html
